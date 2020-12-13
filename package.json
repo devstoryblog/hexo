@@ -1,6 +1,6 @@
 {
   "name": "@devstoryblog/hexo",
-  "version": "5.2.0-fork.5",
+  "version": "5.2.0-fork.6",
   "description": "A fast, simple & powerful blog framework, powered by Node.js.",
   "main": "lib/hexo",
   "bin": {
@@ -39,7 +39,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@devstoryblog/hexo-cli": "4.2.0-fork.2",
+    "@devstoryblog/hexo-cli": "4.2.0-fork.3",
     "abbrev": "^1.1.1",
     "archy": "^1.0.0",
     "bluebird": "^3.5.2",
