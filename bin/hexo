@@ -2,4 +2,4 @@
 
 'use strict';
 
-require('hexo-cli')();
+require('@devstoryblog/hexo-cli')();
